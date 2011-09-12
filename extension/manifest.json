@@ -1,0 +1,14 @@
+{
+  "name": "Dropdo",
+  "description": "Right click a link to a file to upload that file to Dropdo.com to be viewable on the web.",
+  "version": "1",
+  "permissions": [
+    "contextMenus"
+  ],
+  "icons": {
+    "16"  : "icon_16.png",
+    "48"  : "icon_48.png",
+    "128" : "icon_128.png"
+  },
+  "background_page": "background.html"
+}
